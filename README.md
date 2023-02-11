@@ -1,3 +1,6 @@
+
+# https://github.com/anisul-islam/typescript-documentation
+
 # Some common rules :
 
 1.  jodi kono variable e kono type bole na deya hoy, taile ts auto oi variable er type any dhore ney
